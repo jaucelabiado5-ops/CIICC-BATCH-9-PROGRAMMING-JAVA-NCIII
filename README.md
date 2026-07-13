@@ -4,12 +4,12 @@
 
 ## About Me
 
-I'm a passionate developer who enjoys building modern, user-friendly applications and solving real-world problems. I love learning new technologies and continuously improving my skills.
+Student
 
-- 🌱 Currently learning: **[Technology]**
-- 💼 Working with: **[Tech Stack]**
-- 🎯 Goal: **[Your goal]**
-- 📍 Location: **[Your Location]**
+-  Currently learning: **[Technology]**
+-  Working with: **[Tech Stack]**
+-  Goal: **[Your goal]**
+-  Location: **[Your Location]**
 
 ---
 
